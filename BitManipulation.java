@@ -1,4 +1,3 @@
-package array;
 public class BitManipulation {
 public static int fastExpo(int a,int n) {
 int ans = 1;
